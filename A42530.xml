@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from Plymouth, or, A wonderful and tragical relation of a voyage from the Indies where by extraordinary hardships, and the extremities of the late great frost, several of the seamen and others miserably perish'd : and for want of provision, cast-lots for their lives, and were forced to eat one another, and how a Dutch merchant eat part of his own children, and then murdered himself because he would not kill his wife : with the miraculous preservation of George Carpinger, an English seaman, and the Dutch merchants wife, now a shore at Plymouth : in a letter to Mr. D.B. of London, merchant.</title>
+            <author>J. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42530</idno>
+            <idno type="STC">Wing G41</idno>
+            <idno type="STC">ESTC R40434</idno>
+            <idno type="EEBO-CITATION">19319853</idno>
+            <idno type="OCLC">ocm 19319853</idno>
+            <idno type="VID">108601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from Plymouth, or, A wonderful and tragical relation of a voyage from the Indies where by extraordinary hardships, and the extremities of the late great frost, several of the seamen and others miserably perish'd : and for want of provision, cast-lots for their lives, and were forced to eat one another, and how a Dutch merchant eat part of his own children, and then murdered himself because he would not kill his wife : with the miraculous preservation of George Carpinger, an English seaman, and the Dutch merchants wife, now a shore at Plymouth : in a letter to Mr. D.B. of London, merchant.</title>
+                  <author>J. G.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Conyers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.G.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voyages and travels --  Anecdotes</term>
+               <term>Sea stories, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108601:1" rendition="simple:additions"/>
+            <p>STRANGE NEWS FROM PLYMOUTH: OR, A Wonderful and Tragical RELATION of a VOYAGE FROM THE INDIES,</p>
+            <p>Where by Extraordinary Hardſhips, and the Extremities of the late great Froſt, ſeveral of the Seamen and others Miſerably Periſh'd; and for want of Proviſion, Caſt-Lots for their Lives, and were forced to Eat one another; And how a <hi>Dutch</hi> Merchant Eat part of his own Children, and then Murdered himſelf becauſe he would not Kill his Wife: with the Miraculous Preſervation of <hi>George Carpinger</hi> an <hi>Engliſh</hi> Seaman, and the <hi>Dutch</hi> Merchants Wife, now a Shore at <hi>Plymouth.</hi>
+            </p>
+            <p>
+               <hi>In a Letter to Mr.</hi> D. B. of London, <hi>Merchant.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Conyers</hi> at the <hi>Black-Raven</hi> in
+<hi>Duck-Lane,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:108601:2"/>
+            <pb n="3" facs="tcp:108601:2"/>
+            <head>
+               <hi>Strange News from</hi> Plymouth: <hi>Or, a Wonderful and Tragical Relation of a Voyage from the</hi> Indies, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to promiſe in my laſt, I have inquired into the particulars of that ſo Tragical Relation therein mentioned, the which (without any Prologue) I ſhall lay down in its Naked Truth, as I had the ſame from the mouth of the Survivours who are now at my Houſe, which if you pleaſe take as follows— A Gentleman called the <hi>Heer van Eſſell</hi> Native of the Low-Countries, having had the Edu<g ref="char:EOLhyphen"/>cation of a Merchant at home, was reſolved to improve his Pacri<g ref="char:EOLhyphen"/>mony in ſome Forreign Parts: To which end, being thereunto the more Encouraged by the promiſe of a ſtrict Correſpondence with ſeveral of his Countrymen, he undertook a Voyage to the <hi>Indies,</hi> whither he Arrived about the year 1670. And by the Induſtrious Management of his Affairs, increaſed his Eſtate ſo con<g ref="char:EOLhyphen"/>ſiderably, that few Men in thoſe parts Lived in greater ſplendor, being thus ſetled about 7 years, afterwards he came acquain<g ref="char:EOLhyphen"/>ted with the Daughter of a <hi>Dutch</hi> Merchant of great Fortune, a Gentlewoman of many worthy Accompliſhments, and exceed<g ref="char:EOLhyphen"/>ing Beautiful, our Merchant being much taken with her Port and Beauty, made his Addreſſes to her, and reſolving to change his Condition, found her not altogether averſe to his Happineſs, which by degrees he raiſed to Conſent, and obtain'd Her for his Wife, with whom he lived very happily for ſeveral years, till he had increaſed his Eſtate to ſuch a Portion as made him think to return to his own Country where he firſt drew Breath, and had left his Relations, Communicating which Deſign to his Lady, ſhe readily aſſented to the Voyage, and accordingly he made preparation to gather his Eſtate into a Bottom, and take leave of the <hi>Indies,</hi> which in a ſhort time he Effected, and being ſupplied
+<pb n="4" facs="tcp:108601:3"/>with a Veſſel that had diſcharged her ſelf at the ſaid Port; he hired the ſame for <hi>Rotterdam,</hi> and therein Imbarked himſelfe, his Wife, two Children, and one Servant, with all his Eſtate, which amounted to a very conſiderable Catgoe, and in <hi>Auguſt</hi> laſt took Shipping. The flattering Sea which too often beguiles us to our undoing, promiſed him for the two firſt months a very hap<g ref="char:EOLhyphen"/>py Voyage, and fill'd his Heart with hopes of touching the Shore, the long abſence of his Friends rendred very deſirable to him, and Boy'd up with the exp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctation of a happineſs cruel Fat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had deſign'd to deprive him off, was on a ſudden becalm'd, inſomuch that for ſeveral weeks they could ſcar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e tell whether they were forwarded a Leagues ſpace, in which time the ſixteen Seamen and Maſter that was one Board, by a Diſeaſe that increaſed amongſt them, ſeveral Dyed, and by Degrees their Proviſion growing ſhort, they were forced to deal the ſame more ſparingly about, hoping by their care they might have enough to ſerve then thro their Voyage, and made the beſt way they could to their deſired Port; yet ſuch was their misfortune, that they were failed of their expectation, and came to ſee the laſt of what they had ſpent, and for four days lived without any ſuſtenance, and the Wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be<g ref="char:EOLhyphen"/>ing Croſs they could not make Land, where they might re<g ref="char:EOLhyphen"/>victual, but were forced to keep on their Voyage. Their ex<g ref="char:EOLhyphen"/>treamity was ſuch that the two Children not ſo well able to be<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the hardſhip as others, both died, on whoſe Bodies notwithſtanding the Tears and Entreaties of the Merchant and his Wife they were forced to feed, which being in a ſhort
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſum<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> came to be conſidered, having no ſight not hope of any <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that they muſt either all of them ſubmit to the Fate that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ned them, or contrive ſome other method to ſave themſelves<g ref="char:punc">▪</g> which at preſent they had not the leaſt proſpect of, unleſs in the common Calamity, they conſented by Lot or otherwiſe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſtroy ſome one in the number to ſave the reſt, which unwil<g ref="char:EOLhyphen"/>lingly they were at length inforced to, and Joyn<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that according to the number then a Board, they ſhould number
+<pb n="5" facs="tcp:108601:3"/>ſo many Lots, and on whom number 1 fell, he ſhould be ſlain, and number 2 ſhould be his Executioner. But here a Diſpute aroſe, whether the Merchants Wife whoſe two Chil<g ref="char:EOLhyphen"/>dren had to her great grief been already Eaten, and in favour to her Sex, ſhould not be Exempted from the Fatall Lot, ſome were of the opinion ſhe ought, and particularly one <hi>George Car<g ref="char:EOLhyphen"/>pinger,</hi> a ſtout <hi>Engliſh</hi> Seaman, uſed his endeavours to work the Company to Aſſent thereunto; but as nothing is ſo Voracious or Cruell as the Jaws of Hunger on the one hand, or ſo Eſti<g ref="char:EOLhyphen"/>mable as Life on the other, he could not Effect his Deſign, ſo that the majority having over-ruled his Arguments, they drew in common, and ſuch was their misfortune, that the Lot fell on the woman for Death, and on her Husband for Executioner; miſerable was the Lamentation of the Husband and Wife, that ſo fatal a Miſchance ſhould for ever part them, yet Tears and Entreaties were ineffectual, ſo that nothing but ſubmiſſion was left, tho the Merchants Servant and <hi>Carpinger</hi> ſtood reſolutely againſt the reſt, and reſolved to ſpare them, which the Merchant perceiving, and knowing their force was too little to accompliſh their wiſhes, with a ſettled Countenance, ſpake to them to the following purpo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t: <hi>Honeſt Friends, for ſuch you have approved your ſelves to me, you have ſeen the hardſhip of my Fate, and ſince 'tis drove to this point, I am reſolved never to be her Executioner, who hath been ſo loving and juſt a Wife to me, but in her ſtead am reſolved my ſelf the Sacrifice, and therefore, what I have to ſay to you is, that you ſtand her Friends when I am Dead, what is in this Veſtel, does as you know belong to me, ſpare nothing of it to ſerve Her, and with theſe Notes, if ever that Arrive at</hi> Rotterdam,
+<hi>tho all in this Cargoe be loſt, you ſhall be plentifully Rewarded:</hi> which after he had ſaid, and they with Tears had heard, being about to Anſwer him, he drew a Piſtol from his Pocket, which he ſo unexpectedly diſcharged, they had not time to prevent it, and ſhot himſelf in the Head, of which Wound he Immediately Dyed.</p>
+            <pb n="6" facs="tcp:108601:4"/>
+            <p>The Cry they made at his Fall, and the noiſe of the Piſtol was quickly heard to the reſt of the Ships Cr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w, which ſoon called them thithe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; Nor was his Wife long abſent, who poor Lady had been preparing her ſelf for her end, which by this leſs pleaſ<g ref="char:EOLhyphen"/>ing Diſaſter ſhe ſaw prevented. The Tears ſhe ſhed and extra<g ref="char:EOLhyphen"/>vagancies ſhe acted at ſo Diſmal a T<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gedy, were but needleſs to recount, ſince none ſo hard-hearted but might in ſome Mea<g ref="char:EOLhyphen"/>ſure Judge; She Swounded and almoſt Dyed with Grief, and beg'd to be her own Executioner, but ſhe was too narrowly watch'd by her Servant and
+<hi>Carpinger</hi> to effect ſo cruel a purpoſe; their Eyes never left her, and their cares more for her Preſervati<g ref="char:EOLhyphen"/>on then their own, but in vain was all their watchfulneſs againſt the Enemy from without, when ſhe Harboured in her own Breaſt
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſufficient to deſtroy a greater ſtrength then Grief had left her, for no entreaties could perſwade her to Feed on that dear Corps ſhe had ſo often cherriſhed, but what ſhare thereof the hardſhip of her Fate allowed her for her Food, ſhe Embalmed with her Tears, and by renew'd Vows promiſed to ſhare For<g ref="char:EOLhyphen"/>tunes with it, and be Buryed in the ſame unwonted Grave in which that Fleſh was diſtributed, ſhe once ſo much admir'd, which ſhe had near accompliſh'd, having had no Food in that time but two Rats which were Fortunately taken, and Preſented to her by <hi>Carpinger</hi>) at ſuch time as the Fatal Lot was to take its ſecond round, in which ſhe was reſolved to ſhare notwithſtanding all the entreaties of <hi>Carpinger</hi> and her Servant, and in ſhort, ſhe had her wiſh, and drew again a Second time her own Sentence, which ſhe welcom'd more then Bridal-days, and being juſt ready to yield her Throat to the Executioners Knife, ſhe had certainly Fell, had not <hi>Carpinger</hi> with two more whom he hired, ſtept in and reſolutely withſtood the Execution; Upon which Quartel they drew their Fal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hions, and four Perſons were Slain, amongſt whom the Faithful Servant was one. This was a ſufficient Mor<g ref="char:EOLhyphen"/>ſel for the preſent, and ſtaid the Bloody Hunger of the Survivors, who were now reduced to 5 or 6 Perſons beſides the Lady, with
+<pb n="7" facs="tcp:108601:4"/>the Bodies of the Slain they were then Fed more plenteouſly then for ſome Months proceeding, but ſuch was the Rigour or their Fa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, that by the unuſual Dyce moſt of their Men were Dead, juſt as they got ſight of the Lands end of <hi>England,</hi> and having but very few hands to work their Veſſel, they found that from the dangers they had been ſo long in, a ſecond threatned them from the Severity of the late Seaſon, for the Ice being there in very great Flakes, they found themſelves drove amidſt the ſame to<g ref="char:EOLhyphen"/>wards the Shore, from whence they could not diſingage the Ship, in which time <hi>Carpinger</hi> (bring a Perſon of a Volluable Tongue, and formerly well bred about <hi>Stepney</hi> in <hi>London,</hi> where his Fa<g ref="char:EOLhyphen"/>ther Captain <hi>Carpinger</hi> had long Lived) uſed all the Conſolation he could, by Words, or Deviſe, to Comfort the Deſp<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing Lad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till at length ſhe was prevailed to hearken to him, and give her promiſe to ſpare all violence on her ſelf, and waite her
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fortane, in this Caſe they lay for ſix days, till all but two Per<g ref="char:EOLhyphen"/>ſons beſides themſelves were Dead, and theſe ſo Miſerably weak they could not leave their Cabbins, ſo that, being Froze in, that they could not
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Carpinger</hi> with the Lady reſolved to venture on the Ice, and ſet forward towards the Shore, which ſhe the rather undertook for that
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by to find a Grave in thoſe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on which the had loſt what ſhe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> above her
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preſervation, with this Reſolution
+<hi>Carpinger</hi> taking charge of the Lady got a Planck and a long Pole in his Hand, and with theſe left the Ship, and with great danger and difficulty in ſix hours got ſafe to Shore, having opportunity only of ſaving a Casket of Jewels, which he brought off with him, where at my own Houſe the ſaid Parties do now remain, in reaſonable Health. And conſidering the care and kindneſs of <hi>Carpinger,</hi> the Lady ſeems much to Favour him, and when the time of Mournings over, will undoubtedly make him Happy in her Embraces.</p>
+         </div>
+      </body>
+      <back>
+         <div type="permission_to_print">
+            <pb n="8" facs="tcp:108601:5"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu may according to the Credit I have with you, Communicate this to the Publick, if you think fit, after <hi>Eaſter</hi> I intend to ſee you at <hi>London,</hi> and in the mean time, I am,</p>
+            <closer>
+               <signed>Your Servant, J. G.</signed>
+               <dateline>
+                  <hi>Plymouth,
+<date>Feb. 3d. 1683</date>.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>I Should have given you ſome Account of the Ship called the <hi>Do Ruyter</hi> of
+<hi>Rotterdam,</hi> which we ſee at a diſtance, but as yet the Froſt is ſo hard we cannot get to her, but have ſmall hopes of Preſerving hot.</p>
+            <signed>I. G.</signed>
+         </div>
+         <div type="authentication">
+            <p>This Relation is Juſtified for from.</p>
+            <closer>
+               <signed>By Us,
+<list>
+                     <item>John Croſs,</item>
+                     <item>William Atkins,</item>
+                  </list> Seamen.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
